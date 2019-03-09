@@ -1,0 +1,19 @@
+.card {
+    display: inline-block;
+    background: #fff;
+    border-radius: 2px;
+    height: 190px;
+    margin: 18px ;
+    position: relative;
+    width: 190px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+.img-container,
+img{
+    height: 100%;
+    width: 100%
+}
+.card:hover {
+    box-shadow: 0 7px 10px #999, 0 7px 10px #999;
+    transform: scale(1.05);
+}

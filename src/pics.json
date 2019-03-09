@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/spongebob_character.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://static.comicvine.com/uploads/scale_medium/11132/111325030/5880117-spongebob+squarepants+mrs+puff.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Sandy_Cheeks.svg/1200px-Sandy_Cheeks.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "https://cdn-images-1.medium.com/max/1200/1*DCo5LIbgIWrFIOfl3UAMpA.png",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "http://2.bp.blogspot.com/-h_qtvsHYFJw/U3mnYInSgCI/AAAAAAAAff8/f3Xu2hKp558/s1600/Plankton.png",
+        "clicked": false
+    }, 
+    {
+        "id": 6,
+        "image": "https://pbs.twimg.com/profile_images/550769487369089024/x6bBe6rd_400x400.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://ih1.redbubble.net/image.497008950.1161/flat,1000x1000,075,f.u5.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:kids-assets:/nick/properties/spongebob-squarepants/characters/gary-character-web-desktop.png?height=0&width=480&matte=true&crop=false",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "https://costumewall.com/wp-content/uploads/2017/10/mr-krabs.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/220px-SpongeBob_SquarePants_character.svg.png",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:kids-assets:/nick/properties/spongebob-squarepants/characters/plankton-character-web-desktop.png?height=0&width=480&matte=true&crop=false",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://hellogiggles.com/wp-content/uploads/2015/03/04/Squidward_Design_2.jpg",
+        "clicked": false
+    }
+]
