@@ -1,0 +1,22 @@
+.score{
+    background: #7c57cc;
+}
+.name{
+    position: relative;
+    float: left;
+    margin-left: 20px;
+}
+.scores{
+    position: relative;
+    float: right
+}
+.header {
+    font-family: 'Righteous', cursive;
+    padding: 10px 35px 10px 20px;
+    margin-bottom: 40px;
+    background:#7c57cc;
+    color: #f1f1f1;
+    line-height: 40px;
+    position: fixed;
+    width: 100%;
+}
